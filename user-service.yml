@@ -5,10 +5,6 @@ spring:
     username: sa
     password: '{cipher}AQBYAwo5YvCulWrqTm+wIim7lCg1dc7eOVHKnGQh1K9iOL9OTLv7S3z9UeA34VooWxckz8Sami4gJNMzsueIR1D+LWOaFBlzcCc8k0MmCJ8qGlVw5BLWRPzv29h9Nhq3oe1h1Rjqhx1uAd06YOi5gE3U2cqhY/MJLTb2OH4IZFCHNNd5epUT+BQVvQlwj4Ujm7m6g/ApAmce77wY1hREVMbPiq35uWcLgBniMR6APUjCcjbmZ7pVvwQiG/NpeAKT3HGwRdA8VR4Y5HG2Np4t5WtS0E1Bfuy4pKa6LWRoB0J3NIgVfyEbVH+3WbW11g7LZ/Z7AfzQugcaMeqgx2EHtrU57esUw49LNcM3kToekojKvoo7ePbfzjYlXFlAUjhtpHg='
 
-token:
-  expiration_time: 864000000 
-  secret: '{cipher}AQBezDduiyKd/MreWvZilm+eSG1LXVmMYrYgP1WYWhxEOppfrio4cX5x11tEBORUVkZzJqTJjVOznKw6VEOCWcyad1bP6eVyC62iv9jByUGqTHIf2vHqpIKvCTRR4hQEfPQl3cORAgsDpSl8/opbKJ+cKMA0w4FmXSCsnBnEg3KL2G7FjVCQK6zV/7x5q2XKLW08uYvprb4WxArMBDOKb+iQymzQeyZN04pZ6rQ/4pKJU6Zvj/gKdCDgP7L4JpTPH27+xzO6P1c0bGa8ceXFqxHtHv9f//IngebO7R4/AigU/gqzo9OCN+Lt4eJho6qvedXwUg8RDcDnQFOY7q6WhEPK5BG5qnfykA/UesZmtqxTHOv/32zqeaZM2vZ2g3J7Uyk='
-
 gateway:
   ip: 172.18.0.9
 
